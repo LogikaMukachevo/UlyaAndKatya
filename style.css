@@ -1,0 +1,180 @@
+.ramka{
+    margin-top: 20px;
+    border: 1px solid black;
+    background: linear-gradient(#e66465, #9198e5); border-collapse: collapse;
+    width: 100%;
+    color: white;
+}
+
+.ramka {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.ramka td, .ramka th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.ramka th {
+  background-color: #f2f2f2;
+}
+td{
+    border: 1px solid black;
+}
+
+.div{
+    font-style: oblique 40deg;
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+h1{
+    text-align: center;
+    margin-right: 300px;
+}
+.img5{
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+    border-radius: 20px;
+
+}
+div:hover{
+    color: white;
+    background-color: darkmagenta;
+    box-shadow: 2px 2px 10px 10px darkmagenta;
+}
+
+
+.imageright {
+    max-width: 50%; 
+    float: right;
+    border-radius: 25px;
+    margin-right: 20px;
+    
+}
+
+.imageright1 {
+    max-width: 50%; 
+    float: right;
+    margin-left: 400px;
+    border-radius: 25px;
+    margin-right: 20px;
+    margin-top:40px;
+    width: 250px;
+} 
+
+.text1{
+    display: flex;
+    justify-content: left;
+    padding-top: 10px;
+    font-size: 20px ;
+
+}
+
+.text2{
+    padding-top: 10px;
+    font-size: 20px ;
+}
+
+.text2:hover{
+    padding-top: 10px;
+    background-color: brown;
+    border: 2px solid black;
+    box-shadow: 5px 5px 20px 10px orchid;
+    color: white;
+}
+.imageright2 {
+    max-width: 50%; 
+    float: right;
+    margin-left: 400px;
+    border-radius: 25px;
+    margin-right: 20px;
+    margin-top:10px;
+    width: 150px;
+} 
+.imageright5 {
+    max-width: 50%; 
+    float: right;
+    margin-left: 400px;
+    border-radius: 25px;
+    margin-right: 20px;
+    margin-top:10px;
+    width: 150px;
+} 
+
+
+.text1:hover {
+    width: 100%;
+    font-size: 20px;
+    box-shadow: 4px 4px 10px 10px orange;
+    background-color: orangered;
+    color: white;
+}
+
+
+.imageright3 {
+    margin-left: 150px;
+    display: inline-block;
+    border-radius: 20px;
+    justify-content: center;
+    height: 250px;
+    width: 250px;
+}
+
+.imageright4 {
+    display: inline-block;
+    border-radius: 20px;
+    justify-content: center; /* Я змінив це на center, бо right - неправильне значення */
+    height: 250px;
+    width: 250px;
+}
+
+
+.left {
+    display: flex;
+    text-align: left;
+    font-size: 20px;
+    margin-left: 30px;
+    padding: 10px;
+    padding-top: 10px;
+    height: 100%;
+    width: -100px;
+}
+
+.left:hover {
+    padding-top: 10px;
+    background-color: blueviolet;
+    color: white;
+    transition: 5s linear;
+
+}
+
+.imageright2:hover{
+    max-width: 50%; 
+    float: right;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px 20px blueviolet;
+}
+
+.imageright1:hover{
+    max-width: 50%; 
+    float: right;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px 20px blueviolet;
+}
+
+
+.imageright:hover {
+    max-width: 50%; 
+    float: right;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px 20px blueviolet;
+}
+p {
+    max-width: 45%;
+}
+
+
